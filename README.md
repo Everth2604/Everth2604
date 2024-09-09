@@ -95,4 +95,4 @@
     2022 - 2024
 </p>
 
-![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
+[Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
