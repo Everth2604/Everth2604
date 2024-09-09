@@ -10,7 +10,7 @@ Hello! I'm Everth Vargas, a passionate software developer with a strong backgrou
 *June 2021 - Present*  
 - Developed and maintained Android applications using Kotlin and Java.
 - Collaborated with cross-functional teams to design and implement new features.
-- Optimized performance and fixed bugs to ensure smooth user experience.
+- Optimized performance and fixed bugs to ensure a smooth user experience.
 
 **Junior Developer at WebSolutions**  
 *January 2019 - May 2021*  
@@ -40,9 +40,9 @@ Graduated with honors in 2018. Focused on software engineering and mobile app de
 
 ## Contact
 
-- Phone: +54-3573451901
-- Email: [Everth2604@gmail.com](mailto:Everth2604@gmail.com)
-- Address: De las tropas 1754, Cordoba, Villa del Rosario
+- **Phone:** +54-3573451901
+- **Email:** [Everth2604@gmail.com](mailto:Everth2604@gmail.com)
+- **Address:** De las tropas 1754, Cordoba, Villa del Rosario
 
 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/tu-perfil)
@@ -51,3 +51,4 @@ Connect with me on:
 ## Snake Game
 
 ![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
+
