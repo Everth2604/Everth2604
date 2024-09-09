@@ -96,7 +96,7 @@
     <section id="snake-game" class="mb-5 text-center">
         <h2 class="text-primary font-weight-bold mb-4">Snake Game</h2>
         <p align="center">
-            <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+            <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
         </p>
     </section>
 </main>
