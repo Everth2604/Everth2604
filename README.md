@@ -63,26 +63,44 @@
 
 <h3>Highlighted Projects:</h3>
 <p>
-    - **[Project Name](link-to-project)**: Brief description of what the project does and the technologies used.
-    - **[Another Project](link-to-another-project)**: Brief description of this project and its significance.
+    - **[E-commerce Android App](https://github.com/everth2604/ecommerce-app)**: A comprehensive e-commerce application built with Java/Kotlin and Android SDK, featuring inventory management and payment processing.
+    - **[CRUD User Management System](https://github.com/everth2604/crud-user-management)**: A web-based CRUD system for user management developed with PHP, JavaScript, and CSS.
 </p>
 
 <h3>Statistical Data:</h3>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="languages" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="stats" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everth2604&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </p>
 
-<p align="left">
-    <a href="https://twitter.com/" target="blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" />
-    </a>
+<h3>Contact Information:</h3>
+<ul>
+    <li>📞 +54-3573451901</li>
+    <li>📧 <a href="mailto:Everth2604@gmail.com">Everth2604@gmail.com</a></li>
+    <li>📍 De las tropas 1754, Cordoba, Villa del Rosario</li>
+</ul>
+
+<h3>Skills & Competencies:</h3>
+<p>
+    - **Communication**
+    - **Adaptability**
+    - **Creativity**
+    - **Problem-Solving**
+    - **Leadership**
 </p>
+
+<h3>Education:</h3>
+<p>
+    **PTS en Desarrollo de Software**<br>
+    Instituto Superior Villa del Rosario<br>
+    2022 - 2024
+</p>
+
 
 ![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
 
