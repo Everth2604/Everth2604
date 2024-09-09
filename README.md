@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #1e3a8a;">Hi 👋, I'm Everth Vargas</h1>
 <h3 align="center" style="color: #3b82f6;">Aspiring Software Developer | Passionate About Web and Mobile Technologies</h3>
 
-<div align="center" style="background-color: #f1f5f9; border-radius: 10px; padding: 20px; margin: 20px;">
+<div align="center" style="background-color: #f1f5f9; border-radius: 10px; padding: 20px; margin: 20px; max-width: 800px;">
     <h3 style="color: #1e3a8a;">🌱 What I'm Learning</h3>
     <p>Currently exploring Web Development and diving into modern frameworks and programming languages.</p>
     <h3 style="color: #1e3a8a;">📫 Reach Out</h3>
@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center" style="color: #1e3a8a;">Languages and Tools:</h3>
-<div align="center" style="background-color: #f9fafb; border-radius: 10px; padding: 20px; margin: 20px;">
+<div align="center" style="background-color: #f9fafb; border-radius: 10px; padding: 20px; margin: 20px; max-width: 800px;">
     <p>
         <a href="https://developer.android.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -68,16 +68,18 @@
 </div>
 
 <h3 align="center" style="color: #1e3a8a;">Featured Projects:</h3>
-<div align="center" style="background-color: #f9fafb; border-radius: 10px; padding: 20px; margin: 20px; max-width: 900px;">
+<div align="center" style="background-color: #f1f5f9; border-radius: 10px; padding: 20px; margin: 20px; max-width: 800px;">
     <div style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 20px;">
         <h4 style="color: #1e3a8a;">E-commerce Android App</h4>
-        <p>Developed a full-featured e-commerce application with functionalities for inventory management and payment processing. Technologies used include Java/Kotlin, Android SDK, and Firebase.</p>
-        <p><strong>Achievements:</strong> Created a modular architecture and gained experience in integrating web services and optimizing performance.</p>
+        <p><strong>Description:</strong> Developed a full-featured e-commerce application with functionalities for inventory management and payment processing.</p>
+        <p><strong>Technologies:</strong> Java/Kotlin, Android SDK, Firebase</p>
+        <p><strong>Achievements:</strong> Created a modular architecture and integrated web services, optimizing performance and user experience.</p>
     </div>
     <div style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px;">
         <h4 style="color: #1e3a8a;">CRUD User Management System</h4>
-        <p>Built a web-based CRUD system for user management, featuring an interface for adding, editing, and deleting users, including photo uploads. Technologies used include PHP, JavaScript, and CSS.</p>
-        <p><strong>Achievements:</strong> Designed and implemented a complete solution for user data management, enhancing skills in web development and database handling.</p>
+        <p><strong>Description:</strong> Built a web-based CRUD system for user management, with features for adding, editing, and deleting users, including photo uploads.</p>
+        <p><strong>Technologies:</strong> PHP, JavaScript, CSS</p>
+        <p><strong>Achievements:</strong> Designed and implemented a complete solution for managing user data, enhancing skills in web development and database handling.</p>
     </div>
 </div>
 
@@ -85,14 +87,8 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everth2604&theme=dark&background=0d1117&date_format=M%20j%5B%
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everth2604&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<h3>Education:</h3>
-<p>
-    **PTS en Desarrollo de Software**<br>
-    Instituto Superior Villa del Rosario<br>
-    2022 - 2024
-</p>
 
-[Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
+¡[Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
