@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Everth Vargas</h1>
-<h3 align="center">Aspiring Software Developer | Enthusiast in Web and Mobile Technologies 🌟</h3>
+<h3 align="center">Aspiring Software Developer | Passionate About Web and Mobile Technologies 🌟</h3>
 
-- 🌱 Currently diving deep into Web Development, learning modern frameworks and programming languages.
-- 🚀 Passionate about creating innovative and efficient software solutions.
-- 📫 Feel free to reach out to me at **Everth2604@gmail.com**
-- ⚡ Fun fact: Food and Music 🎵 are my ultimate sources of inspiration and joy.
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/0000000?v=4" alt="Everth Vargas" width="150" height="150" style="border-radius: 50%; border: 4px solid #3498db;">
+</p>
+
+- 🌱 Currently exploring Web Development, diving into modern frameworks and programming languages.
+- 🚀 Enthusiastic about building innovative and efficient software solutions.
+- 📫 Reach out to me at **[Everth2604@gmail.com](mailto:Everth2604@gmail.com)**
+- ⚡ Fun fact: Food and Music 🎵 fuel my creativity and keep me motivated.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -61,21 +65,17 @@
     </a>
 </p>
 
-<h3>Highlighted Projects:</h3>
+<h3>Featured Projects:</h3>
 <p>
-    - **[E-commerce Android App](https://github.com/everth2604/ecommerce-app)**: A comprehensive e-commerce application built with Java/Kotlin and Android SDK, featuring inventory management and payment processing.
-    - **[CRUD User Management System](https://github.com/everth2604/crud-user-management)**: A web-based CRUD system for user management developed with PHP, JavaScript, and CSS.
+    - **[E-commerce Android App](https://github.com/everth2604/ecommerce-app)**: A full-featured e-commerce application developed with Java/Kotlin and Android SDK, incorporating inventory management and payment processing.
+    - **[CRUD User Management System](https://github.com/everth2604/crud-user-management)**: A web-based CRUD system for user management, built using PHP, JavaScript, and CSS.
 </p>
 
-<h3>Statistical Data:</h3>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="languages" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="stats" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everth2604&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+<h3>GitHub Stats:</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everth2604&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <h3>Contact Information:</h3>
@@ -101,6 +101,4 @@
     2022 - 2024
 </p>
 
-
 ![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
-
