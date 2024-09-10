@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="70%">
-<h1 align="center">Hi 👋, I'm Everth Vargas</h1>
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="50%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=👋,%20I'm%20Everth%20Vargas&descAlign=70&fontAlign=48" width="105%">
 <h3 align="center">Aspiring Software Developer | Passionate About Web and Mobile Technologies 🌟</h3>
 
 <p align="center">
@@ -11,35 +12,52 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="90" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="90" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="90" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="90" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="50" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="90" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="90" />
     </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="60" />
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="70" height="90" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="90" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="90" />
+    </a>
+    <!-- Visual Studio -->
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="70" height="90" />
+    </a>
+    <!-- Visual Basic -->
+    <a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="visualbasic" width="70" height="90" />
+    </a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="70" height="90" />
+    </a>
+    <!-- Visual Studio Code -->
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="90" />
     </a>
 </p>
 
 <h3>Contact Information:</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
 <ul>
     <li>📞 +54-3573451901</li>
     <li>📧 <a href="mailto:Everth2604@gmail.com">Everth2604@gmail.com</a></li>
@@ -47,6 +65,8 @@
 </ul>
 
 ### **Competencies**
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <div style="display: flex; align-items: center; background-color: #e0f2f1; padding: 12px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -90,6 +110,7 @@
 ## Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  
   <span style="background-color: #bbdefb; color: #0d47a1; font-size: 14px; font-weight: 500; padding: 8px 16px; border-radius: 9999px; display: flex; align-items: center;">
     <i class="fas fa-laptop-code" style="color: #0d47a1; font-size: 16px; margin-right: 8px;"></i> Web Design
   </span>
@@ -150,4 +171,9 @@
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=everth2604&theme=dracula" alt="Activity Graph" />
 </p>
 
-![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  
+<p align="center">
+  <img src= "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="105%">
+<p align="center">
+  <img src= "https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&descAlign=70&fontAlign=48&section=footer" width="110%">
