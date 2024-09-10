@@ -9,7 +9,7 @@
   ⚡ Fun fact: Food and Music 🎵 fuel my creativity and keep me motivated.
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="60" />
     </a>
@@ -39,14 +39,14 @@
     </a>
 </p>
 
-<img align="center" width="900" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-
 <h3>Contact Information:</h3>
 <ul>
     <li>📞 +54-3573451901</li>
     <li>📧 <a href="mailto:Everth2604@gmail.com">Everth2604@gmail.com</a></li>
     <li>📍 Cordoba, Villa del Rosario</li>
 </ul>
+
+<img align="center" width="900" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
 ### **Competencies**
 
@@ -123,15 +123,32 @@
     <i class="fas fa-robot" style="color: #ab47bc; font-size: 16px; margin-right: 8px;"></i> Test Automation
   </span>
 </div>
+
+
 <h3>GitHub Stats:</h3>
+
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages" />
-    </p>
-    <p align="center">
+</p>
+
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=everth2604&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
-     </p>
-    <p align="center">
+</p>
+
+<p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=everth2604&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </p>
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=everth2604&theme=darkhub" alt="GitHub Trophy" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=everth2604&theme=monokai" alt="Profile Summary" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=everth2604&theme=dracula" alt="Activity Graph" />
+</p>
 
 ![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
