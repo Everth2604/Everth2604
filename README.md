@@ -46,8 +46,6 @@
     <li>📍 Cordoba, Villa del Rosario</li>
 </ul>
 
-<img align="center" width="900" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-
 ### **Competencies**
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
@@ -124,6 +122,7 @@
   </span>
 </div>
 
+<img align="center" width="900" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
 <h3>GitHub Stats:</h3>
 
@@ -140,11 +139,11 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=everth2604&theme=darkhub" alt="GitHub Trophy" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=everth2604&theme=monokai" alt="Profile Summary" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=everth2604&theme=monokai" alt="Profile Summary" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=everth2604&theme=darkhub" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
